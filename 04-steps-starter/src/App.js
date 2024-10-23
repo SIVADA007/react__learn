@@ -9,7 +9,7 @@ export default function App(props) {
           <div className="numbers">
             <div className="">1</div>
             <div className="">2</div>
-            <div className="">3.1</div>
+            <div className="">3</div>
           </div>
 
           <p className="message">Hello</p>
